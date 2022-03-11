@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-day_nha/W1-day_nha/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-day_nha/W1-day_nha/app/src/main/res/layout/activity_signup.xml" value="0.24583333333333332" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-day_nha/W1-day_nha/app/src/main/res/layout/activity_splash.xml" value="0.11955420466058764" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-day_nha/W1-day_nha/app/src/main/res/layout/activity_welcome.xml" value="0.24583333333333332" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.229" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/bg_login.xml" value="0.229" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/bg_radius.xml" value="0.229" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/custom_button.xml" value="0.2555" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/custom_button1.xml" value="0.2555" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/custom_button2.xml" value="0.2555" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.229" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/ic_orangeoutline.xml" value="0.1985" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/ic_tron.xml" value="0.2" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/khung.xml" value="0.1" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/line_white.xml" value="0.229" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/muiten.xml" value="0.136" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/drawable/outlinebogoc.xml" value="0.2015" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/layout/activity_onboarding_one.xml" value="0.19322033898305085" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/layout/activity_verification_code.xml" value="0.176" />
+        <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-main/W1-main/app/src/main/res/layout/activity_welcome.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/Desktop/asset/W1-master/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/asset/W1-master/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Desktop/asset/W1-master/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Desktop/asset/W1-master/app/src/main/res/layout/activity_verification_code.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Admin/Desktop/asset/W1-master/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

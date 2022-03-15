@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Tuan2/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/Tuan2/app/src/main/res/layout/activity_onboarding_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/Tuan2/app/src/main/res/layout/activity_signup.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/Tuan2/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/Tuan2/app/src/main/res/layout/activity_test.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/Tuan2/app/src/main/res/layout/activity_verification_code.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/Tuan2/app/src/main/res/layout/activity_welcome.xml" value="0.22826086956521738" />
         <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-day_nha/W1-day_nha/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-day_nha/W1-day_nha/app/src/main/res/layout/activity_signup.xml" value="0.24583333333333332" />
         <entry key="..\:/KYII-NAM4/ANDROID/deadline/W1-day_nha/W1-day_nha/app/src/main/res/layout/activity_splash.xml" value="0.11955420466058764" />

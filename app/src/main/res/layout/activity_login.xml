@@ -73,7 +73,7 @@
             android:inputType="textEmailAddress"
             android:padding="10dp"
             android:paddingStart="22dp"
-            android:text="prelookstudio@gmail.com"
+            android:text=""
             android:textSize="18sp" />
 
         <TextView
@@ -97,7 +97,7 @@
             android:inputType="textPassword"
             android:padding="10dp"
             android:paddingStart="22dp"
-            android:text="Arlene Mccoy"
+            android:text=""
             android:textSize="18sp" />
 
         <TextView
@@ -140,7 +140,7 @@
             <TextView
                 android:id="@+id/txtSignUp"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text=" Sign Up"
                 android:textColor="#FE724C" />
         </LinearLayout>

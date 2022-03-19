@@ -13,7 +13,7 @@ class Splash : AppCompatActivity() {
         handler = Handler()
         handler.postDelayed({
 
-            val intent = Intent(this, Welcome::class.java)
+            val intent = Intent(this, SignUp::class.java)
             startActivity(intent)
             finish()
 

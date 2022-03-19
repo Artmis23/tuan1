@@ -1,9 +1,7 @@
 package com.example.login
 
-import android.annotation.SuppressLint
 import android.app.AlertDialog
 import android.os.Bundle
-import android.os.Handler
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -13,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.MutableLiveData
 import kotlinx.coroutines.*
 
-class SignUp : AppCompatActivity() {
+class Profile : AppCompatActivity() {
     var txtFullName: TextView? = null
     var txtEmail: TextView? = null
     var txtPassWord: TextView? = null
@@ -27,7 +25,7 @@ class SignUp : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_signup)
+        setContentView(R.layout.activity_profile)
 
         initView()
 
@@ -40,7 +38,7 @@ class SignUp : AppCompatActivity() {
 
         CoroutineScope(Dispatchers.IO + exceptionHandler).launch {
             txtFullName?.setOnClickListener(View.OnClickListener { view ->
-                val builder = AlertDialog.Builder(this@SignUp)
+                val builder = AlertDialog.Builder(this@Profile)
                 val viewGroup = findViewById<ViewGroup>(android.R.id.content)
 
                 val dialogView =
@@ -70,7 +68,7 @@ class SignUp : AppCompatActivity() {
 
         CoroutineScope(Dispatchers.IO + exceptionHandler).launch {
             txtEmail?.setOnClickListener(View.OnClickListener { view ->
-                val builder = AlertDialog.Builder(this@SignUp)
+                val builder = AlertDialog.Builder(this@Profile)
                 val viewGroup = findViewById<ViewGroup>(android.R.id.content)
 
                 val dialogView =
@@ -100,7 +98,7 @@ class SignUp : AppCompatActivity() {
 
         CoroutineScope(Dispatchers.IO + exceptionHandler).launch {
             txtPassWord?.setOnClickListener(View.OnClickListener { view ->
-                val builder = AlertDialog.Builder(this@SignUp)
+                val builder = AlertDialog.Builder(this@Profile)
                 val viewGroup = findViewById<ViewGroup>(android.R.id.content)
 
                 val dialogView =

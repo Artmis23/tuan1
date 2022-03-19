@@ -8,11 +8,12 @@
     tools:context=".Welcome">
 
     <Button
+        android:id="@+id/skip"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_marginTop="40dp"
         android:layout_marginLeft="306dp"
+        android:layout_marginTop="40dp"
         android:background="@drawable/custom_button"
         android:text="Skip"
         android:textColor="#ffffff" />
@@ -131,6 +132,7 @@
         />
 
     <Button
+        android:id="@+id/signin"
         style="@style/Widget.Material3.Button.TextButton"
         android:layout_width="70dp"
         android:layout_height="wrap_content"

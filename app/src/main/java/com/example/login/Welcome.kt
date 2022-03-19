@@ -15,13 +15,13 @@ class Welcome : AppCompatActivity() {
         handler = Handler()
         val buttonSkip  = findViewById<Button>(R.id.skip)
         buttonSkip.setOnClickListener(){
-            val intent: Intent = Intent(this, SignUp::class.java)
+            val intent: Intent = Intent(this, Login::class.java)
             startActivity(intent)
             finish()
         }
         val buttonStartWith = findViewById<Button>(R.id.button3)
         buttonStartWith.setOnClickListener(){
-            val intent: Intent = Intent(this, SignUp::class.java)
+            val intent: Intent = Intent(this, Login::class.java)
             startActivity(intent)
             finish()
         }

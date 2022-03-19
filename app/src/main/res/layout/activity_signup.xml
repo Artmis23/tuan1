@@ -70,14 +70,7 @@
             android:drawablePadding="10dp"
             android:inputType="textEmailAddress"
             android:padding="10dp"
-            android:paddingStart="22dp"
-<<<<<<< HEAD
-            android:text=""
-=======
-            android:hint="Full name"
->>>>>>> origin/nhatanh
-            android:textSize="18sp" />
-
+            android:paddingStart="22dp"/>
         <TextView
             android:layout_width="106dp"
             android:layout_height="16dp"
@@ -99,14 +92,7 @@
             android:inputType="textEmailAddress"
             android:gravity="center|left"
             android:padding="10dp"
-            android:paddingStart="22dp"
-<<<<<<< HEAD
-            android:text=""
-=======
-            android:hint="E-mail"
->>>>>>> origin/nhatanh
-            android:textSize="18sp" />
-
+            android:paddingStart="22dp"/>
         <TextView
             android:layout_width="106dp"
             android:layout_height="16dp"
@@ -128,13 +114,7 @@
             android:gravity="center|left"
             android:inputType="textPassword"
             android:padding="10dp"
-            android:paddingStart="22dp"
-<<<<<<< HEAD
-            android:text=""
-=======
-            android:hint="Password"
->>>>>>> origin/nhatanh
-            android:textSize="18sp" />
+            android:paddingStart="22dp"/>
 
         <TextView
             android:id="@+id/btnSignUp"

@@ -58,19 +58,24 @@
             android:textColor="#9796A1"
             android:textSize="15sp" />
 
-        <EditText
-            android:id="@+id/edtFullName"
+        <TextView
+            android:id="@+id/txtFullName"
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:layout_marginHorizontal="20dp"
             android:layout_marginTop="7dp"
             android:layout_marginBottom="3dp"
             android:background="@drawable/bg_radius"
+            android:gravity="center|left"
             android:drawablePadding="10dp"
             android:inputType="textEmailAddress"
             android:padding="10dp"
             android:paddingStart="22dp"
+<<<<<<< HEAD
             android:text=""
+=======
+            android:hint="Full name"
+>>>>>>> origin/nhatanh
             android:textSize="18sp" />
 
         <TextView
@@ -82,8 +87,8 @@
             android:textColor="#9796A1"
             android:textSize="15sp" />
 
-        <EditText
-            android:id="@+id/edtEmail"
+        <TextView
+            android:id="@+id/txtEmail"
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:layout_marginHorizontal="20dp"
@@ -92,9 +97,14 @@
             android:background="@drawable/bg_radius"
             android:drawablePadding="10dp"
             android:inputType="textEmailAddress"
+            android:gravity="center|left"
             android:padding="10dp"
             android:paddingStart="22dp"
+<<<<<<< HEAD
             android:text=""
+=======
+            android:hint="E-mail"
+>>>>>>> origin/nhatanh
             android:textSize="18sp" />
 
         <TextView
@@ -106,8 +116,8 @@
             android:textColor="#9796A1"
             android:textSize="15sp" />
 
-        <EditText
-            android:id="@+id/edtPassWord"
+        <TextView
+            android:id="@+id/txtPassWord"
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:layout_marginHorizontal="20dp"
@@ -115,14 +125,19 @@
             android:layout_marginBottom="3dp"
             android:background="@drawable/bg_radius"
             android:drawablePadding="10dp"
+            android:gravity="center|left"
             android:inputType="textPassword"
             android:padding="10dp"
             android:paddingStart="22dp"
+<<<<<<< HEAD
             android:text=""
+=======
+            android:hint="Password"
+>>>>>>> origin/nhatanh
             android:textSize="18sp" />
 
         <TextView
-            android:id="@+id/login"
+            android:id="@+id/btnSignUp"
             android:layout_width="248dp"
             android:layout_height="60dp"
             android:layout_marginHorizontal="30dp"

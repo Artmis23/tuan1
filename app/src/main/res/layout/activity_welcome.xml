@@ -8,12 +8,11 @@
     tools:context=".Welcome">
 
     <Button
-        android:id="@+id/skip"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="306dp"
         android:layout_marginTop="40dp"
+        android:layout_marginLeft="306dp"
         android:background="@drawable/custom_button"
         android:text="Skip"
         android:textColor="#ffffff" />
@@ -41,14 +40,15 @@
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/comment"
         android:layout_width="244dp"
         android:layout_height="wrap_content"
+        android:id="@+id/comment"
         android:layout_below="@+id/foodhub"
         android:layout_marginLeft="25dp"
         android:text="Your favourite foods delivered fast at your door."
         android:textColor="#30384f"
-        android:textSize="15sp" />
+        android:textSize="15sp"
+        />
 
     <TextView
         android:layout_width="wrap_content"
@@ -132,7 +132,6 @@
 
     <Button
         style="@style/Widget.Material3.Button.TextButton"
-        android:id = "@+id/signin"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:layout_below="@+id/button3"
